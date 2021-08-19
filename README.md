@@ -1,6 +1,6 @@
 # Server Testing Module Project
 
-## Instructions:::
+## Instructions:
 
 ### Task 1: Set Up The Project With Git
 
